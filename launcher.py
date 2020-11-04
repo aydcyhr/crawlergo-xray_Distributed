@@ -86,6 +86,6 @@ for text in file.readlines():
 				#print(load_dict['req_list'][0]['data'])
 				#print(load_dict['req_list'][0]['source'])
 			warnings.filterwarnings(action='ignore')
-			os.remove(read)
+			os.remove(v)
 			run(load_dict['req_list'][0]['url'])
 	n=n+1
