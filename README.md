@@ -26,6 +26,6 @@ crawlergo及launcher脚本部署于本地，xray部署于多个分布式节点
 
 #### 5. 把目标url写进targets.txt,一行一个url
 
-#### 6. 用python3运行launcher.py ( XRAY被动扫描为启动的状态 )
+#### 6. 用python3运行launcher.py ( XRAY节点为启动的状态 )
 
-https://github.com/aydcyhr/crawlergo&xray-Distributed
+https://github.com/aydcyhr/crawlergo-xray_Distributed
