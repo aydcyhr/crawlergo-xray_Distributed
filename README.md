@@ -16,7 +16,7 @@ crawlergo及launcher脚本部署于本地，xray部署于多个分布式节点
 
 #### 2. 把launcher.py和targets.txt放在crawlergo.exe同目录下
 
-#### 3. 使用多台服务器，配置好并启动xray被动扫描(脚本默认配置为0.0.0.0:7777)若修改端口请同时修改proxy.txt文件中的地址，一个一行
+#### 3. 使用多台服务器，配置好并启动xray被动扫描，端口为自定义，同时修改proxy.txt文件中的地址及端口，一个一行
 
 配置参数详见XRAY官方文档
 
